@@ -375,7 +375,10 @@ section {
         .title {
             font-size :4vh;
         }
-
+        
+       .slideLeft2, .slideRight2, .slideLeft5, .slideRight5, .slideLeft7, .slideRight7, .slideLeft9, .slideRight9, .slideLeft11, .slideRight11,.slideLeft14, .slideRight14, .slideLeft16, .slideRight16{
+    top:120vh;
+        }
 }
 
 @media only screen 
@@ -404,6 +407,9 @@ section {
     .title {
         font-size :4vh;
     }
+      .slideLeft2, .slideRight2, .slideLeft5, .slideRight5, .slideLeft7, .slideRight7, .slideLeft9, .slideRight9, .slideLeft11, .slideRight11,.slideLeft14, .slideRight14, .slideLeft16, .slideRight16{
+    top:120vh;
+        }
 
 }
 
@@ -432,6 +438,9 @@ section {
         .title {
             font-size :4vh;
         }
+      .slideLeft2, .slideRight2, .slideLeft5, .slideRight5, .slideLeft7, .slideRight7, .slideLeft9, .slideRight9, .slideLeft11, .slideRight11,.slideLeft14, .slideRight14, .slideLeft16, .slideRight16{
+    top:120vh;
+        }
 }
 
 @media screen 
@@ -457,6 +466,9 @@ section {
         }
         .title {
             font-size :4vh;
+        }
+      .slideLeft2, .slideRight2, .slideLeft5, .slideRight5, .slideLeft7, .slideRight7, .slideLeft9, .slideRight9, .slideLeft11, .slideRight11,.slideLeft14, .slideRight14, .slideLeft16, .slideRight16{
+    top:120vh;
         }
 }
 
@@ -485,6 +497,9 @@ section {
         }
         .title {
             font-size :4vh;
+        }
+      .slideLeft2, .slideRight2, .slideLeft5, .slideRight5, .slideLeft7, .slideRight7, .slideLeft9, .slideRight9, .slideLeft11, .slideRight11,.slideLeft14, .slideRight14, .slideLeft16, .slideRight16{
+    top:120vh;
         }
     }
   
