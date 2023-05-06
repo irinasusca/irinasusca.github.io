@@ -135,7 +135,7 @@ img {
     padding-left:1%;
     padding-right: 1%;
     scroll-snap-align: start;
-    
+    color:#362A2C;
 }
 
 .pics > .picture {
@@ -193,9 +193,7 @@ img {
     background-color:#EAC485;
 }
 
-.info-box {
-    color:#362A2C;
-}
+
 .intro {
     font-family: sans-serif;
     color:white;
