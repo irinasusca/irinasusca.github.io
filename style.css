@@ -321,14 +321,14 @@ section {
   .slideLeft, .slideLeft2, .slideLeft3, .slideLeft4, .slideLeft5, .slideLeft6, .slideLeft7,.slideLeft8,.slideLeft9,.slideLeft10,.slideLeft11,.slideLeft12,.slideLeft13,.slideLeft14,.slideLeft15,.slideLeft16,.slideLeft17 {
     margin-right: 10px;
     left:0.2em;
-    background-image: url("right-arrow.svg");
+    background-image: url("left-arrow.svg");
 
   }
   
   .slideRight,.slideRight2, .slideRight3,.slideRight4,.slideRight5, .slideRight6 , .slideRight7,.slideRight8,.slideRight9,.slideRight10,.slideRight11,.slideRight12,.slideRight13,.slideRight14,.slideRight15,.slideRight16,.slideRight17  {
     margin-left: 10px;
     right: 0.2em;
-    background-image: url("left-arrow.svg");
+    background-image: url("right-arrow.svg");
 
   }
   
