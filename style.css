@@ -99,6 +99,7 @@ img {
     padding-bottom:2vh;
     padding-right:2vw;
     
+    
 }
 .sectiune {
     
@@ -164,6 +165,7 @@ img {
 .avari {
     background-color: #81241F;
     color:#EAC485;
+
 }
 .slavi {
     background-color: #362A2C;
@@ -189,6 +191,10 @@ img {
 
 .tatari {
     background-color:#EAC485;
+}
+
+.info-box {
+    color:#362A2C;
 }
 .intro {
     font-family: sans-serif;
