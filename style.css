@@ -291,7 +291,8 @@ section {
   }
 
   .slideLeft, .slideRight, .slideLeft2, .slideRight2, .slideLeft3, .slideRight3,.slideLeft4,.slideRight4,.slideLeft5,.slideRight5,.slideLeft6,.slideRight6,.slideLeft7,.slideRight7,.slideLeft8,.slideRight8,.slideLeft9, .slideRight9,.slideLeft10, .slideRight10,.slideLeft11, .slideRight11,.slideLeft12, .slideRight12,.slideLeft13, .slideRight13,.slideLeft14, .slideRight14,.slideLeft15, .slideRight15,.slideLeft16, .slideRight16,.slideLeft17, .slideRight17 {
-    position: absolute;
+    content:'';
+      position: absolute;
     top: 45vh;
     transform: translateY(-50%);
     border-radius: 5%;
