@@ -308,9 +308,9 @@ const slideRightButton7 = document.querySelector('.slideRight7');
 let currentSlideIndex7 = 0;
 
 const slides7 = [
-    '<div class="picture picture-box-gepida"><img src="photos/printesagepida.png"></img></div>',
-    '<div class="picture picture-box-ornament"><img src="photos/ornament1.png"></img></div>',
-    '<div class="picture picture-box-ornament2"><img src="photos/ornament2.png"></img></div>',
+    '<div class="picture picture-box-avari-vas"><img src="photos/avari1.png"></img></div>',
+     '<div class="picture picture-box-avari-tezaur"><img src="photos/avari2.png"></img></div>'
+
   ];
 
   function updateSlide7() {
